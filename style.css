@@ -163,7 +163,7 @@ h1 {
 .check input{
     appearance: none;
     width: 20px;
-    height: 24px;
+    height: 27px;
     border: 1px solid var(--vb-cyan);
     cursor: pointer;
     position: relative;
@@ -173,6 +173,7 @@ h1 {
 
 .check input:checked{
     background-color: var(--vb-cyan);
+    
 }
 
 
